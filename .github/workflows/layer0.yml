@@ -36,6 +36,6 @@ jobs:
 
       - run: npm install
       - run: npm run build
-      - run: npm run layer0:deploy -- --skip-build --token=$LAYER0_DEPLOY_TOKEN
+      - run: npm run layer0:deploy -- --token=$LAYER0_DEPLOY_TOKEN
         env:
           LAYER0_DEPLOY_TOKEN: ${{ secrets.LAYER0_DEPLOY_TOKEN }}

@@ -1,20 +1,20 @@
-# Deploy Qwik example to Layer0
+# Deploy Qwik (Express) example to Layer0
 
-A demo deployment of Qwik app to Layer0.
+A demo deployment of Qwik (Express) app to Layer0.
 
 ## Demo
 
-https://rishi-raj-jain-layer0-qwik-express-example-default.layer0-limelight.link
+https://layer0-docs-layer0-qwik-express-example-default.layer0-limelight.link
 
 ## Try It Now
 
-[![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/rishi-raj-jain/layer0-qwik-express-example)
+[![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-qwik-express-example)
 
 ## Getting Started
 
 ### Clone This Repo
 
-Use `git clone https://github.com/rishi-raj-jain/layer0-qwik-express-example.git` to get the files within this repository onto your local machine.
+Use `git clone https://github.com/layer0-docs/layer0-qwik-express-example.git` to get the files within this repository onto your local machine.
 
 ### Install dependencies
 

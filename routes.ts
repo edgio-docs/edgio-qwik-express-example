@@ -1,7 +1,7 @@
 const ONE_YEAR = 365 * 24 * 60 * 60
 
-import { Router } from '@layer0/core'
-import { isProductionBuild } from '@layer0/core/environment'
+import { Router } from '@edgio/core'
+import { isProductionBuild } from '@edgio/core/environment'
 
 const router = new Router()
 

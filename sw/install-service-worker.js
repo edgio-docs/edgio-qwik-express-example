@@ -1,4 +1,4 @@
-import { install, prefetch } from '@layer0/prefetch/window'
+import { install, prefetch } from '@edgio/prefetch/window'
 
 install({
   watch: [

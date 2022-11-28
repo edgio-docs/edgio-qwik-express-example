@@ -1,5 +1,5 @@
 module.exports = {
-  connector: '@layer0/express',
+  connector: '@edgio/express',
   express: {
     appPath: './server/entry.express.js',
     bundler: '@vercel/nft',
